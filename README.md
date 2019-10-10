@@ -22,3 +22,4 @@ python3 main.py
 
 ### This code encrypt and decrypt a cleartext which consists in 4 bytes of data using 10 Rounds of sBox block,permutation and XOR operations, generating independent key for each Round.
 
+####### The main part of algth. stands in main.py and the behavior of methos were built in SPN.py header(python3 file).
